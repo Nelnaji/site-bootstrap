@@ -4,4 +4,11 @@
 
 i {
     font-size: 3rem;
+
+}
+
+html {
+    @media (max-width: 320px) {
+        font-size: 62.5%;
+    }
 }
